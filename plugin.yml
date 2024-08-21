@@ -1,0 +1,10 @@
+name: SitWands
+author: usy4, up by Renz
+api: [5.0.0]
+version: 1.0.0
+main: usy4\SitWands\Main
+descriptions: a wand allow players to sit on another players
+
+permissions:
+  sitwands.command:
+    default: op
